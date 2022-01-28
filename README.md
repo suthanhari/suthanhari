@@ -1,9 +1,9 @@
+<h1 align="center">Hi 👋, I'm Hari Suthan</h1>
+<h3 align="center">A passionate junior frontend developer from India</h3>
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
-<h1 align="center">Hi 👋, I'm Hari Suthan</h1>
-<h3 align="center">A passionate junior frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suthanhari&label=Profile%20views&color=0e75b6&style=flat" alt="suthanhari" /> </p>
 
